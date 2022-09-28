@@ -40,8 +40,8 @@ const HeroShoes = ({ shoes, shoe1, onLightbox }) => {
         </div>
 
         {/* mobile display */}
-        <div className="relative md:hidden h-[420px] object-contain md:h-auto overflow-hidden md:rounded-3xl cursor-pointer">
-          <button className="imagesMobileBtn left-[20px]" onClick={prevBtn}>
+        <div className="relative md:hidden h-auto object-contain overflow-hidden cursor-pointer">
+          <button className="imagesMobileBtn left-[10px]" onClick={prevBtn}>
             &#60;
           </button>
           {activeCarousel === 1 && <img src={shoe1} alt="shoe" />}
@@ -49,7 +49,7 @@ const HeroShoes = ({ shoes, shoe1, onLightbox }) => {
           {activeCarousel === 3 && <img src={shoe3} alt="shoe" />}
           {activeCarousel === 4 && <img src={shoe4} alt="shoe" />}
 
-          <button className="imagesMobileBtn right-[20px]" onClick={nextBtn}>
+          <button className="imagesMobileBtn right-[10px]" onClick={nextBtn}>
             &#62;
           </button>
         </div>

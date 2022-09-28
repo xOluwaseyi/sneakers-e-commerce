@@ -9,8 +9,8 @@ const App = () => {
       <Hero />
 
       {/* footer */}
-      <footer className="text-center text-lg font-bold py-5">
-        <p>
+      <footer className="text-center text-sm font-bold py-5 mb-3">
+        <p className="mb-1">
           👨🏾‍💻 Coded by{" "}
           <a
             href="http://linkedin.com/in/xoluwaseyi"
@@ -18,7 +18,8 @@ const App = () => {
           >
             Oluwaseyi.{" "}
           </a>{" "}
-          <br />
+        </p>
+        <p>
           🎨 Challenge/design by{" "}
           <a
             href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6"

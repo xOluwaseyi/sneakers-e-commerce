@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./sneakers-lp.jpg)
+![](./sneakers-lp.png)
 
 ### Links
 
 - Solution URL: [here.](https://github.com/xOluwaseyi/sneakers-e-commerce)
-- Live Site URL: [here.](https://seyi-sneakers-ecommerce.netlify.app/)
+- Live Site URL: [here.](https://seyi-sneakers.brimble.app/)
 
 ## My process
 

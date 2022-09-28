@@ -25,7 +25,7 @@
 
 @layer components {
   .cartDiv {
-    @apply absolute top-[90px] right-[20px] lg:right-[0px] bg-white rounded-2xl drop-shadow-2xl h-[250px] w-[90%] mx-auto md:w-[380px] flex flex-col z-50;
+    @apply absolute top-[90px] right-[20px] lg:right-[0px] bg-white rounded-2xl drop-shadow-2xl w-[90%] mx-auto md:w-[380px] flex flex-col z-50;
   }
 
   .afterLink {

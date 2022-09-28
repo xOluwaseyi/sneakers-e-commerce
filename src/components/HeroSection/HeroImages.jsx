@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroImagesModal = ({ shoes, handleImage, active }) => {
   return (
-    <div className="hidden md:flex justify-between mt-5 gap-1">
+    <div className="hidden md:flex justify-between md:mt-5 gap-1">
       {shoes.map((shoe) => {
         return (
           <div

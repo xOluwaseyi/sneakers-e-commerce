@@ -8,10 +8,11 @@ const Cart = ({ showCart }) => {
 
   return (
     <div className="cartDiv">
-      <div className="h-[20%] border-b-2 border-gray-300">
-        <h1 className="h-full pt-4 pl-5 font-bold">Cart</h1>
-      </div>
-      <div className="h-[80%] grid place-items-center ">
+      <h1 className="h-full py-2 pl-5 font-bold border-b-2 border-gray-300">
+        Cart
+      </h1>
+
+      <div className="py-5 grid place-items-center gap-5">
         {/* cart is empty and close button */}
         {sneakersCtx.cartValue <= 0 && !sneakersCtx.checkoutState && (
           <>
