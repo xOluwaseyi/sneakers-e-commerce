@@ -11,7 +11,7 @@ const App = () => {
       {/* footer */}
       <footer className="text-center text-lg font-bold py-5">
         <p>
-          Coded by{" "}
+          👨🏾‍💻 Coded by{" "}
           <a
             href="http://linkedin.com/in/xoluwaseyi"
             className="underline text-[#ff7d1a] "
@@ -19,7 +19,7 @@ const App = () => {
             Oluwaseyi.{" "}
           </a>{" "}
           <br />
-          Challenge/design by{" "}
+          🎨 Challenge/design by{" "}
           <a
             href="https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6"
             className="underline text-[#ff7d1a] "

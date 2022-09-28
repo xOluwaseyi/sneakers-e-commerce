@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here.](https://github.com/xOluwaseyi/sneakers-e-commerce)
+- Live Site URL: [here.](https://seyi-sneakers-ecommerce.netlify.app/)
 
 ## My process
 
@@ -50,7 +50,7 @@ I was able to apply a lot of new things I learnt on other projects not long ago 
 
 ## Author
 
-- Website - [Add your name here](https://seyiportfolio.netlify.app/)
+- Website - [Oluwaseyi Fagbemi](https://seyiportfolio.netlify.app/)
 - Frontend Mentor - [@xoluwaseyi](https://www.frontendmentor.io/profile/xoluwaseyi)
 - Twitter - [@xoluwaseyi](https://www.twitter.com/xoluwaseyi)
 - Linkedin - [Oluwaseyi Fagbemi](https://linkedin.com/in/xoluwaseyi)
